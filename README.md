@@ -1,2 +1,2 @@
 # eigenscissors
-private experiment
+experiment - moved to private repo
